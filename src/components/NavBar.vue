@@ -28,8 +28,8 @@ export default {
           url: "/"
         },
         {
-          label: "Login",
-          url: "/login"
+          label: "Signin",
+          url: "/signin"
         },
         {
           label: "Dashboard",
